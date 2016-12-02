@@ -1,0 +1,2 @@
+/usr/bin/ar cr libsrc.a  CMakeFiles/src.dir/./src_generated_dot.cu.o
+/usr/bin/ranlib libsrc.a

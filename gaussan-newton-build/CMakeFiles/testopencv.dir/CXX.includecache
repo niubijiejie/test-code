@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hwj/desktop/qt/gaussan-newton/cholesky.h
+opencv2/core/core.hpp
+-
+
+/home/hwj/desktop/qt/gaussan-newton/main.cpp
+cstdio
+-
+vector
+-
+opencv2/core/core.hpp
+-
+cholesky.h
+/home/hwj/desktop/qt/gaussan-newton/cholesky.h
+iostream
+-
+

@@ -1,0 +1,5 @@
+/home/hwj/desktop/qt/kinfu/kinfu-build/Engine/CMakeFiles/Engine.dir
+/home/hwj/desktop/qt/kinfu/kinfu-build/ITMLib/CMakeFiles/ITMLib.dir
+/home/hwj/desktop/qt/kinfu/kinfu-build/ORUtils/CMakeFiles/ORUtils.dir
+/home/hwj/desktop/qt/kinfu/kinfu-build/Utils/CMakeFiles/Utils.dir
+/home/hwj/desktop/qt/kinfu/kinfu-build/CMakeFiles/kinfu.dir

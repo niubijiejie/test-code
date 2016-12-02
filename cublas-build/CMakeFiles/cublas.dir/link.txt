@@ -1,0 +1,1 @@
+/usr/bin/c++   -g    CMakeFiles/cublas.dir/main.cpp.o  -o cublas  -L/usr/local/cuda/lib64 -rdynamic -lcudart -lcudart -lcublas -Wl,-rpath,/usr/local/cuda/lib64 

@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/learncuda1.dir/main.cpp.o  -o learncuda1 -rdynamic /usr/local/cuda/lib64/libcudart.so src/libsrc.a /usr/local/cuda/lib64/libcudart.so -lGLU -lGL -lSM -lICE -lX11 -lXext -lglut -pthread -Wl,-rpath,/usr/local/cuda/lib64 

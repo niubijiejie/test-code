@@ -1,0 +1,2 @@
+/usr/bin/ar cr libsrc.a  CMakeFiles/src.dir/./src_generated_texture2D.cu.o
+/usr/bin/ranlib libsrc.a

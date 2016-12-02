@@ -1,0 +1,2 @@
+/home/hwj/desktop/qt/learncuda/learncuda1/learncuda1/build/CMakeFiles/learncuda1.dir
+/home/hwj/desktop/qt/learncuda/learncuda1/learncuda1/build/src/CMakeFiles/src.dir

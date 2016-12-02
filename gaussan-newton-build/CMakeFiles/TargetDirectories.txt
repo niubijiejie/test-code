@@ -1,0 +1,1 @@
+/home/hwj/desktop/qt/gaussan-newton-build/CMakeFiles/testopencv.dir
